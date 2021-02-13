@@ -5,15 +5,15 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-/* static char *font = "Terminus:size=11:antialias=true:autohint=true"; */
-/* static char *font = "SauceCodePro Nerd Font Mono:size=11:antialias=true:autohint=true"; */
-static char *font = "Noto Sans Mono:size=11:antialias=true:autohint=true";
+/* static char *font = "Terminus:size=10:antialias=true:autohint=true"; */
+/* static char *font = "SauceCodePro Nerd Font Mono:size=10:antialias=true:autohint=true"; */
+static char *font = "Noto Sans Mono:size=10:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Noto Sans CJK JP:size=11:antialias=true:autohint=true",
-	"Symbola:size=11:antialias=true:autohint=true",
-	"Braille:size=11:antialias=true:autohint=true",
-	"Noto Sans Mono:size=11:antialias=true:autohint=true"
+	"Noto Sans CJK JP:size=10:antialias=true:autohint=true",
+	"Symbola:size=10:antialias=true:autohint=true",
+	"Braille:size=10:antialias=true:autohint=true",
+	"Noto Sans Mono:size=10:antialias=true:autohint=true"
 };
 
 static int borderpx = 0;
