@@ -1,7 +1,5 @@
-config.def.h.orig
+boxdraw.o
 config.h
 st
-st.h.orig
 st.o
-x.c.orig
 x.o
