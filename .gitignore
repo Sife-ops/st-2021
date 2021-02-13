@@ -1,5 +1,6 @@
 boxdraw.o
 config.h
+config.h.old
 st
 st.o
 x.o
