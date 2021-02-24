@@ -5,9 +5,14 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-/* static char *font = "Terminus:pixelsize=20:antialias=true:autohint=true"; */
-/* static char *font = "SauceCodePro Nerd Font Mono:pixelsize=20:antialias=true:autohint=true"; */
+
+/* static char *font = "Iosevka Nerd Font Mono:pixelsize=16:antialias=true:autohint=true"; */
+/* static char *font = "JetBrainsMono Nerd Font Mono:pixelsize=20:antialias=true:autohint=true"; */
 static char *font = "Noto Sans Mono:pixelsize=20:antialias=true:autohint=true";
+/* static char *font = "SauceCodePro Nerd Font Mono:pixelsize=20:antialias=true:autohint=true"; */
+/* static char *font = "Terminus:pixelsize=20:antialias=true:autohint=true"; */
+/* static char *font = "scientifica:style=Regular:pixelsize=22:antialias=false:autohint=true"; */
+
 /* Spare fonts */
 static char *font2[] = {
 	"Noto Sans CJK JP:pixelsize=20:antialias=true:autohint=true",
